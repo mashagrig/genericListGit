@@ -11,9 +11,7 @@ public class MyList {
       String names = "./src/main/resources/csv/names.csv";
      //   String countryFile = "./src/main/resources/csv/countries.csv";
         String age = "./src/main/resources/csv/age.csv";
-   
-/*        String names = "D:\\JAVA\\JAVA-lernings\\lambda2\\src\\main\\resources\\csv\\names.csv";
-        String age = "D:\\JAVA\\JAVA-lernings\\lambda2\\src\\main\\resources\\csv\\age.csv";*/
+
         
 /*        List<Integer> listInt = new LinkedList<>();
         List<String> listString = new LinkedList<>();
